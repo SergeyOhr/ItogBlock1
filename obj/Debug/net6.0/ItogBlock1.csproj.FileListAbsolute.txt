@@ -1,0 +1,16 @@
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\bin\Debug\net6.0\ItogBlock1.exe
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\bin\Debug\net6.0\ItogBlock1.deps.json
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\bin\Debug\net6.0\ItogBlock1.runtimeconfig.json
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\bin\Debug\net6.0\ItogBlock1.dll
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\bin\Debug\net6.0\ref\ItogBlock1.dll
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\bin\Debug\net6.0\ItogBlock1.pdb
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.GlobalUsings.g.cs
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.csproj.AssemblyReference.cache
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.AssemblyInfoInputs.cache
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.AssemblyInfo.cs
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.csproj.CoreCompileInputs.cache
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.dll
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ref\ItogBlock1.dll
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.pdb
+C:\Users\sairu\Desktop\Домашние задания\ItogBlock1\obj\Debug\net6.0\ItogBlock1.genruntimeconfig.cache
